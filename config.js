@@ -15,12 +15,12 @@ global.owner = [
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
+ nomerbot: '212721601712',
+ pairingNumber: '212721601712',
  nameown: 'Nour',
- nomerown: '212717457920',
+ nomerown: '212721601718',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'ABDLKBIR',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
@@ -46,7 +46,7 @@ global.media = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
+ sig: 'https://instagram.com/abdlkbirhr1',
  sgh:  'https://github.com/noureddineouafy',
  sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
 }
